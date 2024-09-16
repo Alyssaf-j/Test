@@ -1,0 +1,16 @@
+{
+  "audiovisual_files": {
+    "73218c54-cce2-49ec-af12-4d32da386b99": {
+      "label": "Tape 1",
+      "is_offline": false,
+      "file_url": "https://ia800807.us.archive.org/33/items/BuildingBridgesHerbBoydsBlackDetroitAPeoplesHistoryOf/HerbboydDetroitntl.mp3"
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Interview 1",
+  "created_at": "2024-09-16T19:28:04.409Z",
+  "created_by": "Alyssaf-j",
+  "updated_at": "2024-09-16T19:28:04.409Z",
+  "updated_by": "Alyssaf-j"
+}
